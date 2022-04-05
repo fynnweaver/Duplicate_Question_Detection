@@ -1,6 +1,6 @@
 # LL_MiniProject5
 
-Using NLP processing methods and different supervised learning models to solve the Quora duplicate question problem. One-day long mini-project where I focused on comparing different ML models, specifically implementing a basic LSTM. 
+The fifth Lighthouse Labs mini-project with alotted time of one day. Using NLP processing methods and different supervised learning models to solve the Quora duplicate question problem. One-day long mini-project where I focused on comparing different ML models, specifically implementing a basic LSTM. 
 
 Two different work flows were followed for traditional ML algorithms versus an LSTM Neural Net. The traditional workflow and models can be found in the `Code.ipynb`. The LSTM processing and model training can be found in `LSTM.ipynb`. The LSTM implementation is heavily based off this [excellent project](https://github.com/jyu-theartofml/kaggle_quora) by [jyu-theartofml](https://github.com/jyu-theartofml).
 
